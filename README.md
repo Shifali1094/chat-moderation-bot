@@ -1,6 +1,8 @@
 # chat-moderation-bot
 Sentiment analysis classification
 
+This project was completed for 41079 - Computing Science Studio 2 at UTS. Adam C., Shifali L. and Fritzy J. S. were responsible for data preparation and model training.
+
 
 ## Installation
 1. Clone repo
